@@ -1,2 +1,2 @@
 # wm-tutorials
-A repository for tutorials related to Wikimedia
+A repository for tutorials and blog posts related to Wikimedia
